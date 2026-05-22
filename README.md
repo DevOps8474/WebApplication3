@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/sqlbackupproject/AgileProject/_apis/build/status%2FDevOps8474.WebApplication3?branchName=main)](https://dev.azure.com/sqlbackupproject/AgileProject/_build/latest?definitionId=11&branchName=main)
